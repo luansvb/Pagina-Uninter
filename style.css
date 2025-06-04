@@ -23,6 +23,7 @@ body{
     height: auto;
     border-radius: 30px;
     margin-left: 10px;
+    max-width: 100%;
 }
 
 li{
@@ -93,6 +94,7 @@ h3{
 #imagemAssustadora{
     display: none;
     width: 750px;
+    max-width: 100%;
     height: auto;
     border-radius: 20px;
     background-color: black;
